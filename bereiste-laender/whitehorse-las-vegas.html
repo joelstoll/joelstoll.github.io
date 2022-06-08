@@ -4,36 +4,60 @@
   <head>
     <title>Joel's Blog</title>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="img/png" href="..\img\bitmap.png"/>
-    <link rel="stylesheet" type="text/css" href="style.css">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&family=Roboto:wght@100&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&family=Roboto:wght@500&display=swap" rel="stylesheet">
-  </head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
 <!-- Header-------------------------------------------------------------------->
 
     <header>
-      <div id="logo">
-        <a href="../Home.html">
-          <img src="../img/logo.png" alt="logo">
-        </a>
-      </div>
-
-      <nav id="main-nav">
-        <ul>
-          <li>   <a href="#about">About</a>     </li>
-          <li>   <a href="#">Ausrüstung</a> </li>
-          <li>   <a href="#reisen">Reisen</a>       </li>
-          <li>   <a href="../Home.html">Home</a>       </li>
-        </ul>
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="../Home.html"><img src="../img/logo.png" alt="logo" height=180%></a>
+          </div>
+          <div class="collapse navbar-collapse " id="myNavbar">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="../Home.html">Home</a></li>
+              <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="../bereiste-laender\bereiste-laender.html">Bereiste Länder <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Rund um Basel </a></li>
+                  <li><a href="../bereiste-laender\whitehorse-las-vegas.html">Nord Amerika</a></li>
+                  <li><a href="#">Westküste Europa</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Ausrüstung<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Velo</a></li>
+                  <li><a href="#">Camping</a></li>
+                </ul>
+              </li>
+              <li><a href="../Home.html#about">Über Mich</a></li>
+            </ul>
+          </div>
+        </div>
       </nav>
     </header>
 
 <!-- Home------------------------------------------------------------------>
-    <section id="home1">
+    <section id="home">
       <hr>
       <h1>Whitehorse – Las Vegas</h1>
       <a href="#artikel">
@@ -50,10 +74,64 @@
         meiner Tour für den Anfang ausgewählt. Dies stellte sich im Nachhinein als nicht
         so schlimm dar. Denn es gab immer wieder Ort, in dem man die Vorräte auffüllen
         konnte und ich bin sehr gut vorwärz gekommen.</p>
+        <figure>
+          <img class="Text_Img" src="../img/about_1.png" alt="Text_Img">
+          <figcaption>August 2020</figcaption>
+        </figure>
       <p>Der erste Abschnitt führte entlang des Alaska Highway Richtung Süden. Dabei habe ich viele spezielle Gefährte gesehen. Diese sind, wenn es für sie möglich war, mit grossem Abstand an einem vorbeigefahren, wenn dies nicht möglich war, haben sie versucht, einen auch mal sehr na zu überholen. Dies hat mich aber nicht so sehr gestört, da ich es mir viel schlimmer vorgestellt habe.</p>
-      <p>Danach bin ich auf dem Cassiar Highway Bären suchen gegangen. Dies habe ich auch des Öfteren geschafft. Leider hat es kein einziges Mal für ein Foto gereicht. Da entweder der Bär oder ich zu ängstlich war, um gemeinsam für ein Foto zu posieren.
-        Nach dem Bärenreichen Abschnitt ging es Richtung Osten auf dem Yellowhead Highway. Dabei habe ich wunderschöne schlaf Plätze gefunden. So wie meistens zur perfekten zeit ein WC mit Abfallentsorgungsstation. Dies hat sehr geholfen, so konnte ich meinen Abfall, und wenn ich an schönen orten noch extra Müll gefunden habe, ohne Probleme mit nehmen.</p>
+        <figure>
+          <img class="Text_Img" src="../img/about_1.png" alt="Text_Img">
+          <figcaption>August 2020</figcaption>
+        </figure>
+      <p>Danach bin ich auf dem Cassiar Highway Bären suchen gegangen. Dies habe ich auch des Öfteren geschafft. Leider hat es kein einziges Mal für ein Foto gereicht. Da entweder der Bär oder ich zu ängstlich war, um gemeinsam für ein Foto zu posieren.</p>
+      <p>Nach dem Bärenreichen Abschnitt ging es Richtung Osten auf dem Yellowhead Highway. Dabei habe ich wunderschöne schlaf Plätze gefunden. So wie meistens zur perfekten zeit ein WC mit Abfallentsorgungsstation. Dies hat sehr geholfen, so konnte ich meinen Abfall, und wenn ich an schönen orten noch extra Müll gefunden habe, ohne Probleme mit nehmen.</p>
+        <figure>
+          <img class="Text_Img" src="../img/about_1.png" alt="Text_Img">
+          <figcaption>August 2020</figcaption>
+        </figure>
       <p>Nach diesen langen abschnitten mit nur wenig Velofahren habe ich mich auf die Nationalparks um Jasper und Banff gefreut. Da ich mir gut vorstellen konnte, dass mehr Leute dort durch Fahren werden als sonst wo. Dies stimmte auch, bin dort das erste Mal auf dieser reise mit jemandem ein Stück zusammengefahren.</p>
+        <figure>
+          <img class="Text_Img" src="../img/about_1.png" alt="Text_Img">
+          <figcaption>August 2020</figcaption>
+        </figure>
+    </section>
+<!-- ARTIKEL------------------------------------------------------------------>
+    <section id="artikel">
+      <h3>Great Divide Mountain Bike</h3>
+      <hr>
+        <figure>
+          <img class="Text_Img" src="../img/about_1.png" alt="Text_Img">
+          <figcaption>August 2020</figcaption>
+        </figure>
+      <p>In Banff startete dann mein weg auf dem Continental divide Route, welche mich mit einem harten Single Trails, welchen ich stückweise hochlaufen musste Empfing. Dies endete sich auch nicht. Dadurch wurde, die gefahrene strecke immer kürzer und die Höhenmeter immer mehr.</p>
+      <p>Gekommen bin ich von Kanada rüber in die USA. Dabei ist mir zum ersten mal zum Verhängnis geworden, das ich nur eine Kreditkarte bei mir hatte. Denn diese ging nach dem Grenzübergang nicht mehr. Ich habe alles versucht, aber sie wollte einfach nicht. Aber kein Problem, ich hatte noch Geld, welches ich in Kanada aus dem Automaten geholt hatte. Die Karte ging nach einiger zeit von alleine wieder.</p>
+        <figure>
+          <img class="Text_Img" src="../img/about_1.png" alt="Text_Img">
+          <figcaption>August 2020</figcaption>
+        </figure>
+      <p>In der USA bin ich weiter auf dem Great Divide Mountain Bike Trail. Dabei habe ich so viele Velo Fahrer gesehen wie nirgends sonst auf meiner Tour. Alle wahren voll konzentriert und hatten sich lange auf diese Tour vorbereitet. Ich hingegen habe dort erst meine Karte von der Strecke auf mein Handy geholt. Welche für diese Strecke auch unabdingbar ist.</p>
+      <p>Nach meinem abschnitt auf der Wasserscheide vom Amerika, welcher sehr fordernd war, kamen eher trockenere Gegenden, welche durch ihre sandigen Böden die fahrt ein ums andere Mal verunmöglichten. Dazu kam dann noch Temperaturen, welche ich nicht gewohnt war mit 45 Grad im Schatten rund um Las Vegas.</p>
+        <figure>
+          <img class="Text_Img" src="../img/about_1.png" alt="Text_Img">
+          <figcaption>August 2020</figcaption>
+        </figure>
+      <p>Und zum Abschluss kam ich in Vegas an, was nach der langen Zeit alleine in der Stille der Natur ein grosser Schock für mich war.</p>
+        <figure>
+          <img class="Text_Img" src="../img/about_1.png" alt="Text_Img">
+          <figcaption>August 2020</figcaption>
+        </figure>
+    </section>
+    <!-- ARTIKEL------------------------------------------------------------------>
+    <section id="artikel">
+      <h3>Essen</h3>
+      <hr>
+      <p>Gegessen habe ich alles, was ich finden konnte. Dabei habe ich sogar einmal Tortilla-Chip über meinem Gaskocher zubereitet, dies funktionierte erstaunlich gut. Leider habe ich mir aber nicht immer so viel Zeit gelassen, um zu kochen. Daher ist es oft bei ein paar Riegel und einem Soft-Tortilla mit Erdnussbutter geblieben.</p>
+        <figure>
+          <img class="Text_Img" src="../img/about_1.png" alt="Text_Img">
+          <figcaption>August 2020</figcaption>
+        </figure>
+      <p>Hier noch eine Karte von denn Orten an welchen ich Übernachtet habe. Mit dem Ziel ein besseren überblick über die länge der Reise.</p>
+      <iframe src="https://www.google.com/maps/d/embed?mid=1lydW2h75lEEfx-By78SonVYkroIxHATc&ehbc=2E312F" width="640" height="480"></iframe>
     </section>
 
 <!-- footer----------------------------------------------------------------->
