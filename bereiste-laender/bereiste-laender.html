@@ -6,7 +6,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" type="img/png" href="..\img\bitmap.png"/>
-
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&family=Roboto:wght@100&display=swap" rel="stylesheet">
@@ -14,9 +13,18 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&family=Roboto:wght@500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin="" />
+  <link rel="stylesheet" type="text/css" href="../css\style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+  <style media="screen">
+  #home{
+    background: url(../img/bereiste-laender_1.JPG);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  </style>
   </head>
 
   <body>
@@ -59,7 +67,7 @@
 </header>
 
 <!-- Mome------------------------------------------------------------------>
-    <section id="home1">
+    <section id="home">
       <hr>
       <h1>Bereiste Länder</h1>
       <a href="#artikel">
@@ -72,14 +80,7 @@
       <h3>Übersicht der Velorouten</h3>
       <hr>
       <p>Meine bisherigen Touren sind in der unteren Karte eingezeichnet. Es sind nicht alle darin, denn einige Touren habe ich gemacht, da war ich zu jung, um mich an die genaue Strecke zu erinnern.</p>
-      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=19iDslTabCL6OU9pOHCVw4mvE6D3FFuAk&ehbc=2E312F" width="640" height="480"></iframe>
-    </section>
-<!-- ARTIKEL------------------------------------------------------------------>
-    <section id="artikel">
-      <h3>Übersicht der Übernachtungspunkte</h3>
-      <hr>
-      <p>Ich habe versucht meine Übernachtungsorte hier aufzuliesten. Leider sind einige Reisen unvollständig oder garnichtdabei.</p>
-      <iframe src="https://www.google.com/maps/d/embed?mid=1lydW2h75lEEfx-By78SonVYkroIxHATc&ehbc=2E312F" width="640" height="480"></iframe>
+      <div id="map" style="width: auto; height: 500px;"></div>
     </section>
 <!-- footer----------------------------------------------------------------->
 
@@ -95,3 +96,35 @@
 
 
 </html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+
+<script src="../map_data\Velotouren\tracks.js"></script>
+
+
+
+<script>
+	var map = L.map('map').setView([55,-38], 2);
+
+	var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		maxZoom: 19,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+	}).addTo(map);
+
+	function onMapClick(e) {
+		popup
+			.setLatLng(e.latlng)
+			.setContent('You clicked the map at ' + e.latlng.toString())
+			.openOn(map);
+	}
+
+	map.on('click', onMapClick);
+
+
+
+
+  L.geoJSON(tracksJson).addTo(map)
+
+
+</script>
