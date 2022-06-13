@@ -56,8 +56,11 @@ hr {width: 5rem; height: 0.15rem;background: #494949;border: 0;margin: 0 auto 40
 #map {
   width: 100%;
   height: 100vh;
-
  }
+ #artikel div{
+   align: left;
+ }
+
  /*-- gallery--------------------------------------------------------------------*/
  .gallery{
    margin: 1rem 5rem;
