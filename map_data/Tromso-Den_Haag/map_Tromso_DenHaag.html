@@ -32,37 +32,41 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
 
-<script src="custom.js"></script>
+<script src="map_Tromso_DenHaag.js"></script>
 
 
 
 <script>
-	var map = L.map('map').setView([55,-60], 2);
+	var map = L.map('map').setView([61.421381, 9.060998], 4);
 
 	var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-		maxZoom: 19,
+    maxZoom: 16,
+    minZoom: 4,
 		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	}).addTo(map);
 
   var Thunderforest_OpenCycleMap = L.tileLayer('https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey={apikey}', {
-	attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-	apikey: '<your apikey>',
-	maxZoom: 22
-}).addTo(map);
-
-	function onMapClick(e) {
-		popup
-			.setLatLng(e.latlng)
-			.setContent('You clicked the map at ' + e.latlng.toString())
-			.openOn(map);
-	}
-
-	map.on('click', onMapClick);
+  	attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  	apikey: '<your apikey>',
+    maxZoom: 16,
+    minZoom: 4,
+  }).addTo(map);
 
 
+  var geojsonMarkerOptions = {
+    radius: 6,
+    fillColor: "#ff7800",
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8
+  };
 
-
-  L.geoJSON(customJson).addTo(map)
+  L.geoJSON(map_Tromso_DenHaagJson, {
+      pointToLayer: function (feature, latlng) {
+          return L.circleMarker(latlng, geojsonMarkerOptions);
+      }
+  }).addTo(map);
 
 
 </script>

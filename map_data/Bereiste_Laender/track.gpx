@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="https://gpx.studio">
+<metadata>
+    <name>track</name>
+    <author>
+        <name>gpx.studio</name>
+        <link href="https://gpx.studio"></link>
+    </author>
+</metadata>
+<wpt lat="60.715758" lon="-135.055362">
+    <ele>0.0</ele>
+    <name>Nacht 1</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="60.362586" lon="-133.881725">
+    <ele>0.0</ele>
+    <name>Nacht 2</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="60.27805" lon="-132.967008">
+    <ele>0.0</ele>
+    <name>Nacht 3</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="60.008319" lon="-132.13834">
+    <ele>0.0</ele>
+    <name>Nacht 4</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="60.156719" lon="-129.717288">
+    <ele>0.0</ele>
+    <name>Nacht 5</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="59.305262" lon="-129.276386">
+    <ele>0.0</ele>
+    <name>Nacht 6</name>
+    <desc>5.juli</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="57.540271" lon="-130.175296">
+    <ele>0.0</ele>
+    <name>Nacht 8</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="55.722681" lon="-128.813399">
+    <ele>0.0</ele>
+    <name>Nacht 10</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="55.19976" lon="-127.68078">
+    <ele>0.0</ele>
+    <name>Nacht 11</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="54.598163" lon="-126.858121">
+    <ele>0.0</ele>
+    <name>Nacht 12</name>
+    <desc>11.juli</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="54.207616" lon="-125.709839">
+    <ele>0.0</ele>
+    <name>Nacht 13</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.958527" lon="-123.559457">
+    <ele>0.0</ele>
+    <name>Nacht 14</name>
+    <desc>13.Juli</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="48.268958" lon="-114.143042">
+    <ele>0.0</ele>
+    <name>Nacht 28</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="47.303863" lon="-113.481746">
+    <ele>0.0</ele>
+    <name>Nacht 30</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="47.029234" lon="-112.8122">
+    <ele>0.0</ele>
+    <name>Nacht 31</name>
+    <desc>30.Juli</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.449885" lon="-112.170244">
+    <ele>0.0</ele>
+    <name>Nacht 33</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.096386" lon="-112.554984">
+    <ele>0.0</ele>
+    <name>Nacht 34</name>
+    <desc>2.August</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="45.837258" lon="-112.872838">
+    <ele>0.0</ele>
+    <name>Nacht 35</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="45.162923" lon="-113.002159">
+    <ele>0.0</ele>
+    <name>Nacht 36</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="44.663375" lon="-112.762842">
+    <ele>0.0</ele>
+    <name>Nacht 37</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="44.592937" lon="-111.727288">
+    <ele>0.0</ele>
+    <name>Nacht 38</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="44.119716" lon="-111.311406">
+    <ele>0.0</ele>
+    <name>Nacht 39</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="44.126939" lon="-110.790588">
+    <ele>0.0</ele>
+    <name>Nacht 40</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="43.638313" lon="-109.919423">
+    <ele>0.0</ele>
+    <name>Nacht 41</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="43.261663" lon="-110.01826">
+    <ele>0.0</ele>
+    <name>Nacht 42</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.607781" lon="-109.855288">
+    <ele>0.0</ele>
+    <name>Nacht 43</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.171664" lon="-110.187216">
+    <ele>0.0</ele>
+    <name>Nacht 44</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.025575" lon="-110.58403">
+    <ele>0.0</ele>
+    <name>Nacht 45</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="40.592779" lon="-111.006412">
+    <ele>0.0</ele>
+    <name>Nacht 46</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="40.105762" lon="-111.183658">
+    <ele>0.0</ele>
+    <name>Nacht 47</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="39.614417" lon="-111.303578">
+    <ele>0.0</ele>
+    <name>Nacht 48</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="39.129898" lon="-111.09926">
+    <ele>0.0</ele>
+    <name>Nacht 49</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="38.748624" lon="-112.083649">
+    <ele>0.0</ele>
+    <name>Nacht 50</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="38.606089" lon="-111.885406">
+    <ele>0.0</ele>
+    <name>Nacht 51</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="38.196403" lon="-111.999704">
+    <ele>0.0</ele>
+    <name>Nacht 52</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="37.721046" lon="-112.266529">
+    <ele>0.0</ele>
+    <name>Nacht 53</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="37.656168" lon="-112.740536">
+    <ele>0.0</ele>
+    <name>Nacht 54</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="37.388829" lon="-113.043865">
+    <ele>0.0</ele>
+    <name>Nacht 55</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="37.171393" lon="-113.249432">
+    <ele>0.0</ele>
+    <name>Nacht 56</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="36.889154" lon="-113.748258">
+    <ele>0.0</ele>
+    <name>Nacht 57</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="36.641119" lon="-114.015838">
+    <ele>0.0</ele>
+    <name>Nacht 58</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="36.516385" lon="-114.423889">
+    <ele>0.0</ele>
+    <name>Nacht 59-60</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="36.24189" lon="-114.51639">
+    <ele>0.0</ele>
+    <name>Nacht 61</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="36.118411" lon="-114.785733">
+    <ele>0.0</ele>
+    <name>Nacht 62-65</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="36.164624" lon="-115.130773">
+    <ele>0.0</ele>
+    <name>Nacht 66-72</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="52.84419" lon="-118.074379">
+    <ele>0.0</ele>
+    <name>Nacht 20</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="51.189084" lon="-115.536102">
+    <ele>0.0</ele>
+    <name>Nacht 25</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="50.690223" lon="-115.127442">
+    <ele>0.0</ele>
+    <name>Nacht 27</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.694072" lon="7.630411">
+    <ele>601.6</ele>
+    <name>sommer 2020 tag 1</name>
+    <desc>hinfahrt auf leysin eine übernachtung</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.351214" lon="7.022488">
+    <ele>1332.0</ele>
+    <name>leysin</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.486372" lon="7.221822">
+    <ele>1004.0</ele>
+    <name>sommer 2020 tag 12</name>
+    <desc>rückfahrt über Biketour 1</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.351308" lon="7.022589">
+    <ele>1004.0</ele>
+    <name>sommer 2020 tag 2-11</name>
+    <desc>leysin Ferienhaus grandmama</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.617204" lon="7.683817">
+    <ele>697.0</ele>
+    <name>sommer 2020 tag 13</name>
+    <desc>rückfahrt über Biketour 1</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.92616" lon="8.288069">
+    <ele>583.0</ele>
+    <name>sommer 2020 tag 14</name>
+    <desc>rückfahrt über Biketour 1</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="47.162252" lon="8.206407">
+    <ele>734.0</ele>
+    <name>2020-08-29 11:00:01</name>
+    <desc>rückfahrt über Biketour 1</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="56.04312" lon="-4.396305">
+    <ele>27.1</ele>
+    <name>2019-04-23 07:33:19</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="56.191908" lon="-4.679643">
+    <ele>14.0</ele>
+    <name>2019-04-23 17:47:25</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="56.324675" lon="-4.715358">
+    <ele>29.0</ele>
+    <name>2019-04-24 20:05:04</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="52.25824" lon="6.166687">
+    <ele>18.0</ele>
+    <name>Sarika in deventer</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.227404" lon="6.548681">
+    <ele>1.8</ele>
+    <name>Pancras groningen</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.497067" lon="10.219906">
+    <ele>19.0</ele>
+    <name>angela zuhause</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.481504" lon="10.21966">
+    <ele>2.0</ele>
+    <name>2021-09-17 09:21:23</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.411211" lon="10.022003">
+    <ele>2308.0</ele>
+    <name>2021-09-10 15:52:17</name>
+    <desc>studiumsreise für den klimawandel</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.913702" lon="9.778254">
+    <ele>814.0</ele>
+    <name>2021-09-05 19:11:15</name>
+    <desc>übernachtung bei jan</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.920396" lon="9.731382">
+    <ele>757.0</ele>
+    <name>2021-09-03 19:12:13</name>
+    <desc>übernachtung bei jan musste darausen übernachten da die türe zu ist</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.255276" lon="10.409731">
+    <ele>18.0</ele>
+    <name>2021-09-18 16:31:46</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="51.732876" lon="10.6102">
+    <ele>575.0</ele>
+    <name>2021-09-20 09:15:27</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.794546" lon="9.259632">
+    <ele>1054.5</ele>
+    <name>2022-04-05 19:18:32</name>
+    <desc>versuch Gr20 april</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.550365" lon="9.446415">
+    <ele>1069.0</ele>
+    <name>2022-04-04 19:18:52</name>
+    <desc>hotel nach ankunft auf dem flughafen bastia</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.841509" lon="9.21416">
+    <ele>1537.8</ele>
+    <name>2022-04-06 07:12:25</name>
+    <desc>versuch Gr20 april</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.79128" lon="9.182908">
+    <ele>963.0</ele>
+    <name>2022-04-07 13:30:12</name>
+    <desc>nach abbruch von der Gr20</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.674452" lon="9.162627">
+    <ele>672.0</ele>
+    <name>2022-04-08 19:03:36</name>
+    <desc>nach abbruch von der Gr20</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.590346" lon="9.276124">
+    <ele>39.0</ele>
+    <name>2022-04-09 17:07:46</name>
+    <desc>nach abbruch von der Gr20</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.92456" lon="8.738861">
+    <ele>30.0</ele>
+    <name>2022-04-11 20:01:17</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.275129" lon="8.742209">
+    <ele>944.0</ele>
+    <name>2022-04-12 20:20:51</name>
+    <desc>Start der mare monti</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.339806" lon="8.629994">
+    <ele>-4.0</ele>
+    <name>2022-04-13 19:38:39</name>
+    <desc>mare e monti</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.650909" lon="9.563148">
+    <ele>5.0</ele>
+    <name>2021-12-26 20:54:01</name>
+    <desc>skilager mit antoine</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.105657" lon="7.805991">
+    <ele>2266.0</ele>
+    <name>2020-08-13 21:00:26</name>
+    <desc>europa weg mit fabian und max</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="47.074873" lon="7.311942">
+    <ele>-2.0</ele>
+    <name>2022-03-13 21:02:44</name>
+    <desc>Virginia übernachtung</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="47.199706" lon="7.362241">
+    <ele>682.0</ele>
+    <name>2020-09-13 21:03:54</name>
+    <desc>übernachtung beim arbeiten in grenchen mit auto</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="47.315847" lon="7.694766">
+    <ele>-2.0</ele>
+    <name>2019-06-13 21:06:16</name>
+    <desc>übernachten bei feuerwehr kurs in balsthel</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="47.377797" lon="7.7209">
+    <ele>1030.5</ele>
+    <name>2019-11-13 21:07:34</name>
+    <desc>waldweidhütte mit der JO</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="47.206595" lon="7.537109">
+    <ele>432.5</ele>
+    <name>2017-04-13 21:08:51</name>
+    <desc>veloreise mit laurent nach leysin</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.405971" lon="8.676726">
+    <ele>92.0</ele>
+    <name>2022-04-14 17:38:32</name>
+    <desc>mare e monti</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.261983" lon="8.7116">
+    <ele>88.0</ele>
+    <name>2012-04-14 17:40:07</name>
+    <desc>Reise mit familie</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.301303" lon="9.147663">
+    <ele>91.0</ele>
+    <name>2019-09-14 17:40:43</name>
+    <desc>JO lager korsika</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.28718" lon="9.037772">
+    <ele>91.0</ele>
+    <name>2012-04-14 17:41:28</name>
+    <desc>Reise mit familie</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.864441" lon="9.398318">
+    <ele>91.0</ele>
+    <name>2019-04-14 17:43:24</name>
+    <desc>JO lager korsika</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.392768" lon="9.165868">
+    <ele>82.0</ele>
+    <name>2012-04-14 17:44:12</name>
+    <desc>Reise mit familie</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.33427" lon="9.008604">
+    <ele>92.0</ele>
+    <name>2019-04-14 17:46:07</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.286695" lon="9.037796">
+    <ele>92.0</ele>
+    <name>2019-04-14 17:46:29</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.552715" lon="8.76863">
+    <ele>92.0</ele>
+    <name>2012-04-14 17:47:33</name>
+    <desc>Reise mit familie</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.937557" lon="8.727105">
+    <ele>103.0</ele>
+    <name>2012-04-15 07:34:06</name>
+    <desc>Reise mit familie</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.79455" lon="9.259624">
+    <ele>279.0</ele>
+    <name>2017-04-15 11:05:05</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.841483" lon="9.21436">
+    <ele>280.0</ele>
+    <name>2017-04-15 11:05:29</name>
+    <desc>Gr20 mi Eltern</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.935115" lon="9.206011">
+    <ele>281.0</ele>
+    <name>2017-04-15 11:06:09</name>
+    <desc>Gr20 mi Eltern</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.008639" lon="9.218331">
+    <ele>282.0</ele>
+    <name>2017-04-15 11:06:28</name>
+    <desc>Gr20 mi Eltern</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.077495" lon="9.150134">
+    <ele>290.0</ele>
+    <name>2017-04-15 11:07:47</name>
+    <desc>Gr20 mi Eltern</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.034106" lon="9.164649">
+    <ele>293.0</ele>
+    <name>2017-04-15 11:08:12</name>
+    <desc>Gr20 mi Eltern</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.874198" lon="9.152685">
+    <ele>296.0</ele>
+    <name>2017-04-15 11:08:37</name>
+    <desc>Gr20 mi Eltern</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.128368" lon="9.134054">
+    <ele>298.0</ele>
+    <name>2017-04-15 11:09:06</name>
+    <desc>Gr20 mi Eltern</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.308753" lon="9.152048">
+    <ele>302.0</ele>
+    <name>2019-04-15 11:10:01</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.428998" lon="8.813766">
+    <ele>1168.0</ele>
+    <name>2022-04-15 17:40:20</name>
+    <desc>mare e monti</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.410242" lon="9.126218">
+    <ele>1161.0</ele>
+    <name>2019-04-16 10:12:30</name>
+    <desc>JO lager korsika</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="41.733008" lon="9.338145">
+    <ele>1164.0</ele>
+    <name>2017-04-16 11:42:18</name>
+    <desc>Gr20 mi Eltern</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.596032" lon="7.499664">
+    <ele>1164.0</ele>
+    <name>2018-12-16 11:43:26</name>
+    <desc>skilager mit antoine</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.60249" lon="9.425598">
+    <ele>1164.0</ele>
+    <name>2019-12-16 11:44:33</name>
+    <desc>skilager mit antoine</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.792338" lon="10.238821">
+    <ele>1164.0</ele>
+    <name>2017-04-16 11:45:48</name>
+    <desc>skilager mit der JO</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.464866" lon="9.190658">
+    <ele>1164.0</ele>
+    <name>2016-04-16 11:47:25</name>
+    <desc>skilager mit der JO</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.329989" lon="9.655202">
+    <ele>1163.0</ele>
+    <name>2018-08-16 11:48:27</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.608941" lon="8.463591">
+    <ele>1163.0</ele>
+    <name>2018-12-16 11:49:53</name>
+    <desc>lavinenkurs mit sac
++ gipfel mit JO</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.592786" lon="8.461787">
+    <ele>1163.0</ele>
+    <name>2018-12-16 11:50:40</name>
+    <desc>lavinenkurs mit sac</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.666613" lon="8.730616">
+    <ele>1163.0</ele>
+    <name>2012-04-16 11:52:03</name>
+    <desc>skilager mit der sekschule</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.356177" lon="7.983605">
+    <ele>1162.0</ele>
+    <name>2018-06-16 11:53:02</name>
+    <desc>lager als zivi mit schule</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.808052" lon="9.258592">
+    <ele>1159.0</ele>
+    <name>2008-04-16 12:44:29</name>
+    <desc>Schwimmlager</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="47.190969" lon="9.282537">
+    <ele>1167.0</ele>
+    <name>2022-03-16 16:43:28</name>
+    <desc>skilager als leiter eingesprungen</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.011035" lon="7.417557">
+    <ele>1167.0</ele>
+    <name>2012-08-16 16:49:29</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.483676" lon="7.741818">
+    <ele>1166.0</ele>
+    <name>2012-04-16 16:51:25</name>
+    <desc>gearbeitet als hüttenjunge</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.585155" lon="7.962192">
+    <ele>2062.7</ele>
+    <name>2012-04-16 16:52:35</name>
+    <desc>klimalager mit der Sekundarschule</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.299311" lon="7.918094">
+    <ele>657.0</ele>
+    <name>2022-04-16 17:27:05</name>
+    <desc>handballwochenende 2liga</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.486251" lon="8.847753">
+    <ele>398.0</ele>
+    <name>2022-04-17 13:10:02</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.648652" lon="9.02841">
+    <ele>192.0</ele>
+    <name>2022-04-18 18:27:11</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.72048" lon="9.203547">
+    <ele>10.0</ele>
+    <name>2022-04-19 16:55:57</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.543109" lon="9.469504">
+    <ele>14.8</ele>
+    <name>2022-04-22 19:49:46</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.673445" lon="9.292187">
+    <ele>9.8</ele>
+    <name>2022-04-21 19:50:02</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="48.463395" lon="7.812711">
+    <ele>147.0</ele>
+    <name>2014-08-24 09:12:11</name>
+    <desc>trainingslagerhandball u19</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="48.271165" lon="7.716173">
+    <ele>165.0</ele>
+    <name>Kamping rust mit familievelotour</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="48.115629" lon="8.142295">
+    <ele>1147.0</ele>
+    <name>2022-06-04 18:11:37</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="47.94015" lon="8.120031">
+    <ele>1188.0</ele>
+    <name>2022-06-05 17:50:36</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="43.514953" lon="16.463391">
+    <ele>98.4</ele>
+    <name>Mit fabian tag 1-3</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="43.105154" lon="17.351083">
+    <ele>58.0</ele>
+    <name>Mit fabian 7-8</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="42.646963" lon="18.080007">
+    <ele>90.3</ele>
+    <name>Mit fabian 4-6</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="50.073674" lon="14.429082">
+    <ele>243.3</ele>
+    <name>2016 tag 1</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="50.456254" lon="14.381992">
+    <ele>160.1</ele>
+    <name>2016 tag 2</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="50.772737" lon="14.210669">
+    <ele>127.0</ele>
+    <name>2016 tag 3</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="51.048919" lon="13.724929">
+    <ele>117.7</ele>
+    <name>2016 tag 4</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="51.361602" lon="13.224209">
+    <ele>118.3</ele>
+    <name>2016 tag 5</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="51.768917" lon="12.830535">
+    <ele>75.0</ele>
+    <name>2016 tag 6</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="51.857212" lon="12.179724">
+    <ele>55.0</ele>
+    <name>2016 tag 7</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="52.124864" lon="11.629273">
+    <ele>57.4</ele>
+    <name>2016 tag 8</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="52.537899" lon="11.971689">
+    <ele>36.0</ele>
+    <name>2016 tag 9</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.004632" lon="11.731928">
+    <ele>23.0</ele>
+    <name>2016 tag 10</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.192707" lon="11.001361">
+    <ele>11.0</ele>
+    <name>2016 tag 11</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.396707" lon="10.439759">
+    <ele>9.0</ele>
+    <name>2016 tag 12</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.564" lon="9.764613">
+    <ele>3.6</ele>
+    <name>2016 tag 13</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.821157" lon="8.895114">
+    <ele>2.4</ele>
+    <name>2016 tag 14</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.885761" lon="8.650055">
+    <ele>4.8</ele>
+    <name>2016 tag 15</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="49.03865" lon="7.765027">
+    <ele>208.7</ele>
+    <name>2019-09-02 08:02:15</name>
+    <desc>tag 1lockeres einfahren in die höhenmeter</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="48.880502" lon="7.38983">
+    <ele>236.4</ele>
+    <name>2019-09-02 19:03:56</name>
+    <desc>tag 2 anstrengender schlafe in höhle</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="48.877732" lon="7.375629">
+    <ele>243.0</ele>
+    <name>2019-09-03 06:41:34</name>
+    <desc>tag 2 habe mich verschoben in der höhle zu viele geräusche</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="48.720416" lon="7.685512">
+    <ele>146.0</ele>
+    <name>2019-09-03 19:55:11</name>
+    <desc>tag 3 abgewichen vom ursprünglichen plan fahre zu anstrengend</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="48.054785" lon="7.387848">
+    <ele>199.3</ele>
+    <name>2019-09-05 07:40:27</name>
+    <desc>tag 4 regen in der nacht schlafsack nass fahre jetzt nach hause</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="51.836815" lon="5.392891">
+    <ele>7.9</ele>
+    <name>2018 tag 37</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="51.652123" lon="6.587304">
+    <ele>18.2</ele>
+    <name>2018 tag 38</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="50.820329" lon="7.017176">
+    <ele>46.0</ele>
+    <name>2018 tag 39</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="49.996671" lon="8.040788">
+    <ele>83.0</ele>
+    <name>2018 tag 40</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="49.29394" lon="8.429198">
+    <ele>95.0</ele>
+    <name>2018 tag 41</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="48.498977" lon="7.795478">
+    <ele>142.0</ele>
+    <name>2018 tag 42</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="69.611584" lon="18.266765">
+    <ele>2.6</ele>
+    <name>2018 tag 1</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="69.269201" lon="15.962723">
+    <ele>19.2</ele>
+    <name>2018 tag 2</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="68.761996" lon="15.464217">
+    <ele>6.8</ele>
+    <name>2018 tag 3</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="68.423931" lon="14.564135">
+    <ele>4.2</ele>
+    <name>2018 tag 4</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="68.232672" lon="14.111173">
+    <ele>14.4</ele>
+    <name>2018 tag 5</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="67.215241" lon="14.612805">
+    <ele>79.2</ele>
+    <name>2018 tag 7</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="66.78521" lon="13.534785">
+    <ele>50.2</ele>
+    <name>2018 tag 8</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="66.31946" lon="13.310851">
+    <ele>33.2</ele>
+    <name>2018 tag 9</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="65.953639" lon="12.458983">
+    <ele>12.9</ele>
+    <name>2018 tag 10</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="65.168446" lon="12.117762">
+    <ele>18.9</ele>
+    <name>2018 tag 11</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="64.759051" lon="11.577719">
+    <ele>8.1</ele>
+    <name>2018 tag 12</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="64.295782" lon="11.200327">
+    <ele>7.0</ele>
+    <name>2018 tag 13</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="64.113844" lon="10.544253">
+    <ele>269.5</ele>
+    <name>2018 tag 14</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="63.628797" lon="9.694324">
+    <ele>88.1</ele>
+    <name>2018 tag 15</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="63.175277" lon="9.495012">
+    <ele>364.8</ele>
+    <name>2018 tag 16</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="62.978257" lon="8.721192">
+    <ele>4.5</ele>
+    <name>2018 tag 17</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="62.510372" lon="8.493448">
+    <ele>869.8</ele>
+    <name>2018 tag 18</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="62.038923" lon="8.967387">
+    <ele>1135.5</ele>
+    <name>2018 tag 19</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="61.177799" lon="8.997376">
+    <ele>665.8</ele>
+    <name>2018 tag 20</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="60.636988" lon="9.061364">
+    <ele>183.3</ele>
+    <name>2018 tag 21</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="59.916221" lon="9.343262">
+    <ele>190.9</ele>
+    <name>2018 tag 22</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="59.399607" lon="9.964521">
+    <ele>67.3</ele>
+    <name>2018 tag 23</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="57.532191" lon="9.920466">
+    <ele>25.8</ele>
+    <name>2018 tag 24</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="57.115343" lon="9.278822">
+    <ele>23.9</ele>
+    <name>2018 tag 25</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="56.47599" lon="8.125015">
+    <ele>7.1</ele>
+    <name>2018 tag 26</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="55.764661" lon="8.269603">
+    <ele>10.1</ele>
+    <name>2018 tag 27</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="54.963652" lon="8.686911">
+    <ele>1.2</ele>
+    <name>2018 tag 28</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="54.3122" lon="8.90479">
+    <ele>0.8</ele>
+    <name>2018 tag 29</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.884805" lon="8.650594">
+    <ele>-0.2</ele>
+    <name>2018 tag 30</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.383839" lon="8.231563">
+    <ele>-1.0</ele>
+    <name>2018 tag 32</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.301622" lon="7.028168">
+    <ele>-1.7</ele>
+    <name>2018 tag 33</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="53.306078" lon="5.871312">
+    <ele>-0.5</ele>
+    <name>2018 tag 34</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="52.827657" lon="4.788454">
+    <ele>1.0</ele>
+    <name>2018 tag 35</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="52.096163" lon="4.28328">
+    <ele>9.2</ele>
+    <name>2018 tag 36</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.415837" lon="6.127687">
+    <ele>1154.3</ele>
+    <name>2020-09-05 08:03:00</name>
+    <desc>wanderreise jura</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.539663" lon="6.235564">
+    <ele>1416.1</ele>
+    <name>2020-09-06 08:01:44</name>
+    <desc>wanderreise jura</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.698247" lon="6.378525">
+    <ele>1091.0</ele>
+    <name>2020-09-06 16:52:27</name>
+    <desc>wanderreise jura</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.812982" lon="6.536712">
+    <ele>824.0</ele>
+    <name>2020-09-08 07:50:11</name>
+    <desc>wanderreise jura</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="46.895273" lon="6.685136">
+    <ele>1181.0</ele>
+    <name>2021-04-01 17:11:39</name>
+    <desc>wanderreise jura</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="47.025072" lon="6.819158">
+    <ele>1375.0</ele>
+    <name>2021-04-03 07:08:29</name>
+    <desc>wanderreise jura</desc>
+    <sym> </sym>
+</wpt>
+<wpt lat="52.096087" lon="4.283287">
+    <ele>13.0</ele>
+    <name>2021-07-16 21:39:44</name>
+    <sym> </sym>
+</wpt>
+</gpx>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+	<metadata>
+		<desc>File with points/tracks from Locus Map Classic/3.61.0</desc>
+		<time>2022-06-22T10:00:03.096Z</time>
+	</metadata>
+<wpt lat="69.611584" lon="18.266765">
+	<time>2022-06-22T08:04:26.576Z</time>
+	<name>2018 tag 1</name>
+</wpt>
+<wpt lat="69.269201" lon="15.962723">
+	<time>2022-06-22T08:05:40.110Z</time>
+	<name>2018 tag 2</name>
+</wpt>
+<wpt lat="68.761996" lon="15.464217">
+	<time>2022-06-22T08:06:23.461Z</time>
+	<name>2018 tag 3</name>
+</wpt>
+<wpt lat="68.423931" lon="14.564135">
+	<time>2022-06-22T08:07:06.362Z</time>
+	<name>2018 tag 4</name>
+</wpt>
+<wpt lat="68.232672" lon="14.111173">
+	<time>2022-06-22T08:07:39.430Z</time>
+	<name>2018 tag 5</name>
+</wpt>
+<wpt lat="67.215241" lon="14.612805">
+	<time>2022-06-22T08:08:14.972Z</time>
+	<name>2018 tag 7</name>
+</wpt>
+<wpt lat="66.785210" lon="13.534785">
+	<time>2022-06-22T08:09:12.705Z</time>
+	<name>2018 tag 8</name>
+</wpt>
+<wpt lat="66.319460" lon="13.310851">
+	<time>2022-06-22T08:10:08.034Z</time>
+	<name>2018 tag 9</name>
+</wpt>
+<wpt lat="65.953639" lon="12.458983">
+	<time>2022-06-22T08:10:42.285Z</time>
+	<name>2018 tag 10</name>
+</wpt>
+<wpt lat="65.168446" lon="12.117762">
+	<time>2022-06-22T08:11:30.526Z</time>
+	<name>2018 tag 11</name>
+</wpt>
+<wpt lat="64.759051" lon="11.577719">
+	<time>2022-06-22T08:12:10.522Z</time>
+	<name>2018 tag 12</name>
+</wpt>
+<wpt lat="64.295782" lon="11.200327">
+	<time>2022-06-22T08:12:48.340Z</time>
+	<name>2018 tag 13</name>
+</wpt>
+<wpt lat="64.113844" lon="10.544253">
+	<time>2022-06-22T08:13:30.074Z</time>
+	<name>2018 tag 14</name>
+</wpt>
+<wpt lat="63.628797" lon="9.694324">
+	<time>2022-06-22T08:14:08.561Z</time>
+	<name>2018 tag 15</name>
+</wpt>
+<wpt lat="63.175277" lon="9.495012">
+	<time>2022-06-22T08:14:59.612Z</time>
+	<name>2018 tag 16</name>
+</wpt>
+<wpt lat="62.978257" lon="8.721192">
+	<time>2022-06-22T08:15:32.348Z</time>
+	<name>2018 tag 17</name>
+</wpt>
+<wpt lat="62.510372" lon="8.493448">
+	<time>2022-06-22T08:16:04.865Z</time>
+	<name>2018 tag 18</name>
+</wpt>
+<wpt lat="62.038923" lon="8.967387">
+	<time>2022-06-22T08:17:08.851Z</time>
+	<name>2018 tag 19</name>
+</wpt>
+<wpt lat="61.177799" lon="8.997376">
+	<time>2022-06-22T08:18:03.171Z</time>
+	<name>2018 tag 20</name>
+</wpt>
+<wpt lat="60.636988" lon="9.061364">
+	<time>2022-06-22T08:19:28.707Z</time>
+	<name>2018 tag 21</name>
+</wpt>
+<wpt lat="59.916221" lon="9.343262">
+	<time>2022-06-22T08:20:52.878Z</time>
+	<name>2018 tag 22</name>
+</wpt>
+<wpt lat="59.399607" lon="9.964521">
+	<time>2022-06-22T08:21:37.146Z</time>
+	<name>2018 tag 23</name>
+</wpt>
+<wpt lat="57.532191" lon="9.920466">
+	<time>2022-06-22T08:22:23.180Z</time>
+	<name>2018 tag 24</name>
+</wpt>
+<wpt lat="57.115343" lon="9.278822">
+	<time>2022-06-22T08:23:29.404Z</time>
+	<name>2018 tag 25</name>
+</wpt>
+<wpt lat="56.475990" lon="8.125015">
+	<time>2022-06-22T08:25:41.857Z</time>
+	<name>2018 tag 26</name>
+</wpt>
+<wpt lat="55.764661" lon="8.269603">
+	<time>2022-06-22T08:26:49.991Z</time>
+	<name>2018 tag 27</name>
+</wpt>
+<wpt lat="54.963652" lon="8.686911">
+	<time>2022-06-22T08:27:30.864Z</time>
+	<name>2018 tag 28</name>
+</wpt>
+<wpt lat="54.312200" lon="8.904790">
+	<time>2022-06-22T08:28:31.624Z</time>
+	<name>2018 tag 29</name>
+</wpt>
+<wpt lat="53.884805" lon="8.650594">
+	<time>2022-06-22T08:29:19.665Z</time>
+	<name>2018 tag 30</name>
+</wpt>
+<wpt lat="53.383839" lon="8.231563">
+	<time>2022-06-22T08:30:59.402Z</time>
+	<name>2018 tag 32</name>
+</wpt>
+<wpt lat="53.301622" lon="7.028168">
+	<time>2022-06-22T08:32:25.721Z</time>
+	<name>2018 tag 33</name>
+</wpt>
+<wpt lat="53.306078" lon="5.871312">
+	<time>2022-06-22T08:34:12.108Z</time>
+	<name>2018 tag 34</name>
+</wpt>
+<wpt lat="52.827657" lon="4.788454">
+	<time>2022-06-22T08:35:01.110Z</time>
+	<name>2018 tag 35</name>
+</wpt>
+<wpt lat="52.096163" lon="4.283280">
+	<time>2022-06-22T08:35:24.736Z</time>
+	<name>2018 tag 36</name>
+</wpt>
+</gpx>

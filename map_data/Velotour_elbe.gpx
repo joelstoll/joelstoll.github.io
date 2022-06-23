@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+	<metadata>
+		<desc>File with points/tracks from Locus Map Classic/3.61.0</desc>
+		<time>2022-06-22T09:59:50.018Z</time>
+	</metadata>
+<wpt lat="50.073674" lon="14.429082">
+	<time>2022-06-22T09:27:58.716Z</time>
+	<name>2016 tag 1</name>
+</wpt>
+<wpt lat="50.456254" lon="14.381992">
+	<time>2022-06-22T09:30:36.287Z</time>
+	<name>2016 tag 2</name>
+</wpt>
+<wpt lat="50.772737" lon="14.210669">
+	<time>2022-06-22T09:32:58.120Z</time>
+	<name>2016 tag 3</name>
+</wpt>
+<wpt lat="51.048919" lon="13.724929">
+	<time>2022-06-22T09:34:59.886Z</time>
+	<name>2016 tag 4</name>
+</wpt>
+<wpt lat="51.361602" lon="13.224209">
+	<time>2022-06-22T09:35:55.959Z</time>
+	<name>2016 tag 5</name>
+</wpt>
+<wpt lat="51.768917" lon="12.830535">
+	<ele>75.00</ele>
+	<time>2022-06-22T09:38:04.047Z</time>
+	<name>2016 tag 6</name>
+</wpt>
+<wpt lat="51.857212" lon="12.179724">
+	<ele>55.00</ele>
+	<time>2022-06-22T09:38:50.475Z</time>
+	<name>2016 tag 7</name>
+</wpt>
+<wpt lat="52.124864" lon="11.629273">
+	<time>2022-06-22T09:46:37.926Z</time>
+	<name>2016 tag 8</name>
+</wpt>
+<wpt lat="52.537899" lon="11.971689">
+	<time>2022-06-22T09:47:31.687Z</time>
+	<name>2016 tag 9</name>
+</wpt>
+<wpt lat="53.004632" lon="11.731928">
+	<ele>23.00</ele>
+	<time>2022-06-22T09:48:01.458Z</time>
+	<name>2016 tag 10</name>
+</wpt>
+<wpt lat="53.192707" lon="11.001361">
+	<ele>11.00</ele>
+	<time>2022-06-22T09:48:31.892Z</time>
+	<name>2016 tag 11</name>
+</wpt>
+<wpt lat="53.396707" lon="10.439759">
+	<ele>9.00</ele>
+	<time>2022-06-22T09:49:47.822Z</time>
+	<name>2016 tag 12</name>
+</wpt>
+<wpt lat="53.564000" lon="9.764613">
+	<time>2022-06-22T09:50:38.448Z</time>
+	<name>2016 tag 13</name>
+</wpt>
+<wpt lat="53.821157" lon="8.895114">
+	<time>2022-06-22T09:51:28.699Z</time>
+	<name>2016 tag 14</name>
+</wpt>
+<wpt lat="53.885761" lon="8.650055">
+	<time>2022-06-22T09:51:52.851Z</time>
+	<name>2016 tag 15</name>
+</wpt>
+</gpx>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+	<metadata>
+		<desc>File with points/tracks from Locus Map Classic/3.61.0</desc>
+		<time>2022-06-22T09:58:57.431Z</time>
+	</metadata>
+<wpt lat="52.258240" lon="6.166687">
+	<ele>18.00</ele>
+	<time>2021-07-19T20:38:40.219Z</time>
+	<name>Sarika in deventer</name>
+	<hdop>7.50</hdop>
+</wpt>
+<wpt lat="53.227404" lon="6.548681">
+	<time>2021-07-21T08:57:24.524Z</time>
+	<name>Pancras groningen</name>
+</wpt>
+<wpt lat="53.497067" lon="10.219906">
+	<ele>19.00</ele>
+	<time>2021-09-15T19:25:59.466Z</time>
+	<name>angela zuhause</name>
+	<hdop>11.79</hdop>
+</wpt>
+<wpt lat="53.481504" lon="10.219660">
+	<ele>2.00</ele>
+	<time>2021-09-17T07:21:22.942Z</time>
+	<name>2021-09-17 09:21:23</name>
+</wpt>
+<wpt lat="46.411211" lon="10.022003">
+	<ele>2308.00</ele>
+	<time>2021-09-10T13:52:17.088Z</time>
+	<name>2021-09-10 15:52:17</name>
+	<desc><![CDATA[studiumsreise für den klimawandel]]></desc>
+</wpt>
+<wpt lat="46.913702" lon="9.778254">
+	<ele>814.00</ele>
+	<time>2021-09-05T17:11:14.801Z</time>
+	<name>2021-09-05 19:11:15</name>
+	<desc><![CDATA[übernachtung bei jan]]></desc>
+</wpt>
+<wpt lat="46.920396" lon="9.731382">
+	<ele>757.00</ele>
+	<time>2021-09-05T17:12:13.582Z</time>
+	<name>2021-09-03 19:12:13</name>
+	<desc><![CDATA[übernachtung bei jan musste darausen übernachten da die türe zu ist]]></desc>
+</wpt>
+<wpt lat="53.255276" lon="10.409731">
+	<ele>18.00</ele>
+	<time>2021-09-18T14:31:46.033Z</time>
+	<name>2021-09-18 16:31:46</name>
+</wpt>
+<wpt lat="51.732876" lon="10.610200">
+	<ele>575.00</ele>
+	<time>2021-09-20T07:15:27.587Z</time>
+	<name>2021-09-20 09:15:27</name>
+</wpt>
+<wpt lat="41.794546" lon="9.259632">
+	<time>2022-04-05T17:18:32.221Z</time>
+	<name>2022-04-05 19:18:32</name>
+	<desc><![CDATA[versuch Gr20 april]]></desc>
+</wpt>
+<wpt lat="42.550365" lon="9.446415">
+	<ele>1069.00</ele>
+	<time>2022-04-05T17:18:52.172Z</time>
+	<name>2022-04-04 19:18:52</name>
+	<desc><![CDATA[hotel nach ankunft auf dem flughafen bastia]]></desc>
+	<hdop>7.50</hdop>
+</wpt>
+<wpt lat="41.841509" lon="9.214160">
+	<time>2022-04-07T05:12:24.873Z</time>
+	<name>2022-04-06 07:12:25</name>
+	<desc><![CDATA[versuch Gr20 april]]></desc>
+</wpt>
+<wpt lat="41.791280" lon="9.182908">
+	<ele>963.00</ele>
+	<time>2022-04-07T11:30:12.570Z</time>
+	<name>2022-04-07 13:30:12</name>
+	<desc><![CDATA[nach abbruch von der Gr20]]></desc>
+	<hdop>4.29</hdop>
+</wpt>
+<wpt lat="41.674452" lon="9.162627">
+	<ele>672.00</ele>
+	<time>2022-04-08T17:03:36.259Z</time>
+	<name>2022-04-08 19:03:36</name>
+	<desc><![CDATA[nach abbruch von der Gr20]]></desc>
+	<hdop>5.36</hdop>
+</wpt>
+<wpt lat="41.590346" lon="9.276124">
+	<ele>39.00</ele>
+	<time>2022-04-09T15:07:46.118Z</time>
+	<name>2022-04-09 17:07:46</name>
+	<desc><![CDATA[nach abbruch von der Gr20]]></desc>
+	<hdop>5.36</hdop>
+</wpt>
+<wpt lat="41.924560" lon="8.738861">
+	<ele>30.00</ele>
+	<time>2022-04-11T18:01:17.520Z</time>
+	<name>2022-04-11 20:01:17</name>
+	<hdop>79.33</hdop>
+</wpt>
+<wpt lat="42.275129" lon="8.742209">
+	<ele>944.00</ele>
+	<time>2022-04-12T18:20:50.934Z</time>
+	<name>2022-04-12 20:20:51</name>
+	<desc><![CDATA[Start der mare monti]]></desc>
+	<hdop>20.37</hdop>
+</wpt>
+<wpt lat="42.339806" lon="8.629994">
+	<ele>-4.00</ele>
+	<time>2022-04-13T17:38:39.076Z</time>
+	<name>2022-04-13 19:38:39</name>
+	<desc><![CDATA[mare e monti]]></desc>
+	<hdop>4.29</hdop>
+</wpt>
+<wpt lat="46.650909" lon="9.563148">
+	<ele>5.00</ele>
+	<time>2022-04-13T18:54:01.532Z</time>
+	<name>2021-12-26 20:54:01</name>
+	<desc><![CDATA[skilager mit antoine]]></desc>
+	<hdop>10.72</hdop>
+</wpt>
+<wpt lat="46.105657" lon="7.805991">
+	<ele>2266.00</ele>
+	<time>2022-04-13T19:00:26.113Z</time>
+	<name>2020-08-13 21:00:26</name>
+	<desc><![CDATA[europa weg mit fabian und max]]></desc>
+	<hdop>9.65</hdop>
+</wpt>
+<wpt lat="47.074873" lon="7.311942">
+	<ele>-2.00</ele>
+	<time>2022-04-13T19:02:43.976Z</time>
+	<name>2022-03-13 21:02:44</name>
+	<desc><![CDATA[Virginia übernachtung]]></desc>
+	<hdop>10.72</hdop>
+</wpt>
+<wpt lat="47.199706" lon="7.362241">
+	<ele>682.00</ele>
+	<time>2022-04-13T19:03:53.859Z</time>
+	<name>2020-09-13 21:03:54</name>
+	<desc><![CDATA[übernachtung beim arbeiten in grenchen mit auto]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="47.315847" lon="7.694766">
+	<ele>-2.00</ele>
+	<time>2022-04-13T19:06:16.232Z</time>
+	<name>2019-06-13 21:06:16</name>
+	<desc><![CDATA[übernachten bei feuerwehr kurs in balsthel]]></desc>
+	<hdop>4.29</hdop>
+</wpt>
+<wpt lat="47.377797" lon="7.720900">
+	<ele>-1.00</ele>
+	<time>2022-04-13T19:07:34.315Z</time>
+	<name>2019-11-13 21:07:34</name>
+	<desc><![CDATA[waldweidhütte mit der JO]]></desc>
+	<hdop>6.43</hdop>
+</wpt>
+<wpt lat="47.206595" lon="7.537109">
+	<ele>-1.00</ele>
+	<time>2022-04-13T19:08:50.801Z</time>
+	<name>2017-04-13 21:08:51</name>
+	<desc><![CDATA[veloreise mit laurent nach leysin]]></desc>
+	<hdop>4.29</hdop>
+</wpt>
+<wpt lat="42.405971" lon="8.676726">
+	<ele>92.00</ele>
+	<time>2022-04-14T15:38:31.845Z</time>
+	<name>2022-04-14 17:38:32</name>
+	<desc><![CDATA[mare e monti]]></desc>
+	<hdop>4.29</hdop>
+</wpt>
+<wpt lat="42.261983" lon="8.711600">
+	<ele>88.00</ele>
+	<time>2022-04-14T15:40:06.902Z</time>
+	<name>2012-04-14 17:40:07</name>
+	<desc><![CDATA[Reise mit familie]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.301303" lon="9.147663">
+	<ele>91.00</ele>
+	<time>2022-04-14T15:40:43.418Z</time>
+	<name>2019-09-14 17:40:43</name>
+	<desc><![CDATA[JO lager korsika]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.287180" lon="9.037772">
+	<ele>91.00</ele>
+	<time>2022-04-14T15:41:28.770Z</time>
+	<name>2012-04-14 17:41:28</name>
+	<desc><![CDATA[Reise mit familie]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="41.864441" lon="9.398318">
+	<ele>91.00</ele>
+	<time>2022-04-14T15:43:24.407Z</time>
+	<name>2019-04-14 17:43:24</name>
+	<desc><![CDATA[JO lager korsika]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="41.392768" lon="9.165868">
+	<ele>82.00</ele>
+	<time>2022-04-14T15:44:12.142Z</time>
+	<name>2012-04-14 17:44:12</name>
+	<desc><![CDATA[Reise mit familie]]></desc>
+	<hdop>9.65</hdop>
+</wpt>
+<wpt lat="42.334270" lon="9.008604">
+	<ele>92.00</ele>
+	<time>2022-04-14T15:46:07.112Z</time>
+	<name>2019-04-14 17:46:07</name>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.286695" lon="9.037796">
+	<ele>92.00</ele>
+	<time>2022-04-14T15:46:29.716Z</time>
+	<name>2019-04-14 17:46:29</name>
+	<hdop>4.29</hdop>
+</wpt>
+<wpt lat="42.552715" lon="8.768630">
+	<ele>92.00</ele>
+	<time>2022-04-14T15:47:33.142Z</time>
+	<name>2012-04-14 17:47:33</name>
+	<desc><![CDATA[Reise mit familie]]></desc>
+	<hdop>4.29</hdop>
+</wpt>
+<wpt lat="41.937557" lon="8.727105">
+	<ele>103.00</ele>
+	<time>2022-04-15T05:34:06.010Z</time>
+	<name>2012-04-15 07:34:06</name>
+	<desc><![CDATA[Reise mit familie]]></desc>
+	<hdop>10.72</hdop>
+</wpt>
+<wpt lat="41.794550" lon="9.259624">
+	<ele>279.00</ele>
+	<time>2022-04-15T09:05:05.540Z</time>
+	<name>2017-04-15 11:05:05</name>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="41.841483" lon="9.214360">
+	<ele>280.00</ele>
+	<time>2022-04-15T09:05:29.747Z</time>
+	<name>2017-04-15 11:05:29</name>
+	<desc><![CDATA[Gr20 mi Eltern]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="41.935115" lon="9.206011">
+	<ele>281.00</ele>
+	<time>2022-04-15T09:06:09.030Z</time>
+	<name>2017-04-15 11:06:09</name>
+	<desc><![CDATA[Gr20 mi Eltern]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.008639" lon="9.218331">
+	<ele>282.00</ele>
+	<time>2022-04-15T09:06:28.297Z</time>
+	<name>2017-04-15 11:06:28</name>
+	<desc><![CDATA[Gr20 mi Eltern]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.077495" lon="9.150134">
+	<ele>290.00</ele>
+	<time>2022-04-15T09:07:47.517Z</time>
+	<name>2017-04-15 11:07:47</name>
+	<desc><![CDATA[Gr20 mi Eltern]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.034106" lon="9.164649">
+	<ele>293.00</ele>
+	<time>2022-04-15T09:08:12.186Z</time>
+	<name>2017-04-15 11:08:12</name>
+	<desc><![CDATA[Gr20 mi Eltern]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="41.874198" lon="9.152685">
+	<ele>296.00</ele>
+	<time>2022-04-15T09:08:37.552Z</time>
+	<name>2017-04-15 11:08:37</name>
+	<desc><![CDATA[Gr20 mi Eltern]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.128368" lon="9.134054">
+	<ele>298.00</ele>
+	<time>2022-04-15T09:09:06.688Z</time>
+	<name>2017-04-15 11:09:06</name>
+	<desc><![CDATA[Gr20 mi Eltern]]></desc>
+	<hdop>5.36</hdop>
+</wpt>
+<wpt lat="42.308753" lon="9.152048">
+	<ele>302.00</ele>
+	<time>2022-04-15T09:10:01.263Z</time>
+	<name>2019-04-15 11:10:01</name>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.428998" lon="8.813766">
+	<ele>1168.00</ele>
+	<time>2022-04-15T15:40:20.541Z</time>
+	<name>2022-04-15 17:40:20</name>
+	<desc><![CDATA[mare e monti]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="41.410242" lon="9.126218">
+	<ele>1161.00</ele>
+	<time>2022-04-16T08:12:30.391Z</time>
+	<name>2019-04-16 10:12:30</name>
+	<desc><![CDATA[JO lager korsika]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="41.733008" lon="9.338145">
+	<ele>1164.00</ele>
+	<time>2022-04-16T09:42:18.654Z</time>
+	<name>2017-04-16 11:42:18</name>
+	<desc><![CDATA[Gr20 mi Eltern]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="46.596032" lon="7.499664">
+	<ele>1164.00</ele>
+	<time>2022-04-16T09:43:26.774Z</time>
+	<name>2018-12-16 11:43:26</name>
+	<desc><![CDATA[skilager mit antoine]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="46.602490" lon="9.425598">
+	<ele>1164.00</ele>
+	<time>2022-04-16T09:44:33.274Z</time>
+	<name>2019-12-16 11:44:33</name>
+	<desc><![CDATA[skilager mit antoine]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="46.792338" lon="10.238821">
+	<ele>1164.00</ele>
+	<time>2022-04-16T09:45:47.835Z</time>
+	<name>2017-04-16 11:45:48</name>
+	<desc><![CDATA[skilager mit der JO]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="46.464866" lon="9.190658">
+	<ele>1164.00</ele>
+	<time>2022-04-16T09:47:25.607Z</time>
+	<name>2016-04-16 11:47:25</name>
+	<desc><![CDATA[skilager mit der JO]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="46.329989" lon="9.655202">
+	<ele>1163.00</ele>
+	<time>2022-04-16T09:48:26.886Z</time>
+	<name>2018-08-16 11:48:27</name>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="46.608941" lon="8.463591">
+	<ele>1163.00</ele>
+	<time>2022-04-16T09:49:53.055Z</time>
+	<name>2018-12-16 11:49:53</name>
+	<desc><![CDATA[lavinenkurs mit sac
++ gipfel mit JO]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="46.592786" lon="8.461787">
+	<ele>1163.00</ele>
+	<time>2022-04-16T09:50:40.755Z</time>
+	<name>2018-12-16 11:50:40</name>
+	<desc><![CDATA[lavinenkurs mit sac]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="46.666613" lon="8.730616">
+	<ele>1163.00</ele>
+	<time>2022-04-16T09:52:03.395Z</time>
+	<name>2012-04-16 11:52:03</name>
+	<desc><![CDATA[skilager mit der sekschule]]></desc>
+	<hdop>9.65</hdop>
+</wpt>
+<wpt lat="46.356177" lon="7.983605">
+	<ele>1162.00</ele>
+	<time>2022-04-16T09:53:01.794Z</time>
+	<name>2018-06-16 11:53:02</name>
+	<desc><![CDATA[lager als zivi mit schule]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="46.808052" lon="9.258592">
+	<ele>1159.00</ele>
+	<time>2022-04-16T10:44:29.075Z</time>
+	<name>2008-04-16 12:44:29</name>
+	<desc><![CDATA[Schwimmlager]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="47.190969" lon="9.282537">
+	<ele>1167.00</ele>
+	<time>2022-04-16T14:43:28.216Z</time>
+	<name>2022-03-16 16:43:28</name>
+	<desc><![CDATA[skilager als leiter eingesprungen]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="46.011035" lon="7.417557">
+	<ele>1167.00</ele>
+	<time>2022-04-16T14:49:29.108Z</time>
+	<name>2012-08-16 16:49:29</name>
+	<hdop>10.72</hdop>
+</wpt>
+<wpt lat="46.483676" lon="7.741818">
+	<ele>1166.00</ele>
+	<time>2022-04-16T14:51:25.500Z</time>
+	<name>2012-04-16 16:51:25</name>
+	<desc><![CDATA[gearbeitet als hüttenjunge]]></desc>
+	<hdop>9.65</hdop>
+</wpt>
+<wpt lat="46.585155" lon="7.962192">
+	<ele>2062.66</ele>
+	<time>2022-04-16T14:52:35.502Z</time>
+	<name>2012-04-16 16:52:35</name>
+	<desc><![CDATA[klimalager mit der Sekundarschule]]></desc>
+	<hdop>9.65</hdop>
+</wpt>
+<wpt lat="46.299311" lon="7.918094">
+	<ele>657.00</ele>
+	<time>2022-04-16T15:27:03.403Z</time>
+	<name>2022-04-16 17:27:05</name>
+	<desc><![CDATA[handballwochenende 2liga]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.486251" lon="8.847753">
+	<ele>398.00</ele>
+	<time>2022-04-17T11:10:02.200Z</time>
+	<name>2022-04-17 13:10:02</name>
+	<hdop>5.36</hdop>
+</wpt>
+<wpt lat="42.648652" lon="9.028410">
+	<ele>192.00</ele>
+	<time>2022-04-18T16:27:11.612Z</time>
+	<name>2022-04-18 18:27:11</name>
+	<hdop>17.15</hdop>
+</wpt>
+<wpt lat="42.720480" lon="9.203547">
+	<ele>10.00</ele>
+	<time>2022-04-19T14:55:56.856Z</time>
+	<name>2022-04-19 16:55:57</name>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.543109" lon="9.469504">
+	<ele>-1.00</ele>
+	<time>2022-04-21T17:49:46.081Z</time>
+	<name>2022-04-22 19:49:46</name>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.673445" lon="9.292187">
+	<ele>-1.00</ele>
+	<time>2022-04-21T17:50:02.121Z</time>
+	<name>2022-04-21 19:50:02</name>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="48.463395" lon="7.812711">
+	<ele>147.00</ele>
+	<time>2022-06-04T07:12:10.947Z</time>
+	<name>2014-08-24 09:12:11</name>
+	<desc><![CDATA[trainingslagerhandball u19]]></desc>
+</wpt>
+<wpt lat="48.271165" lon="7.716173">
+	<ele>165.00</ele>
+	<time>2022-06-04T07:13:59.565Z</time>
+	<name>Kamping rust mit familievelotour</name>
+</wpt>
+<wpt lat="48.115629" lon="8.142295">
+	<ele>1147.00</ele>
+	<time>2022-06-05T06:11:36.642Z</time>
+	<name>2022-06-04 18:11:37</name>
+</wpt>
+<wpt lat="47.940150" lon="8.120031">
+	<ele>1188.00</ele>
+	<time>2022-06-06T05:50:36.023Z</time>
+	<name>2022-06-05 17:50:36</name>
+</wpt>
+<wpt lat="43.514953" lon="16.463391">
+	<time>2022-06-22T09:53:18.954Z</time>
+	<name>Mit fabian tag 1-3</name>
+</wpt>
+<wpt lat="43.105154" lon="17.351083">
+	<time>2022-06-22T09:55:24.259Z</time>
+	<name>Mit fabian 7-8</name>
+</wpt>
+<wpt lat="42.646963" lon="18.080007">
+	<time>2022-06-22T09:56:18.977Z</time>
+	<name>Mit fabian 4-6</name>
+</wpt>
+</gpx>

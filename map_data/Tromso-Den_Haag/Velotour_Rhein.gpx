@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+	<metadata>
+		<desc>File with points/tracks from Locus Map Classic/3.61.0</desc>
+		<time>2022-06-22T10:00:16.554Z</time>
+	</metadata>
+<wpt lat="51.836815" lon="5.392891">
+	<time>2022-06-22T08:36:04.464Z</time>
+	<name>2018 tag 37</name>
+</wpt>
+<wpt lat="51.652123" lon="6.587304">
+	<time>2022-06-22T08:38:56.154Z</time>
+	<name>2018 tag 38</name>
+</wpt>
+<wpt lat="50.820329" lon="7.017176">
+	<ele>46.00</ele>
+	<time>2022-06-22T09:22:21.177Z</time>
+	<name>2018 tag 39</name>
+</wpt>
+<wpt lat="49.996671" lon="8.040788">
+	<ele>83.00</ele>
+	<time>2022-06-22T09:23:30.079Z</time>
+	<name>2018 tag 40</name>
+</wpt>
+<wpt lat="49.293940" lon="8.429198">
+	<ele>95.00</ele>
+	<time>2022-06-22T09:24:26.230Z</time>
+	<name>2018 tag 41</name>
+</wpt>
+<wpt lat="48.498977" lon="7.795478">
+	<ele>142.00</ele>
+	<time>2022-06-22T09:25:03.684Z</time>
+	<name>2018 tag 42</name>
+</wpt>
+</gpx>

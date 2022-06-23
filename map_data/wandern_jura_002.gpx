@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+	<metadata>
+		<desc>File with points/tracks from Locus Map Classic/3.61.0</desc>
+		<time>2022-06-22T10:00:30.062Z</time>
+	</metadata>
+<wpt lat="46.415837" lon="6.127687">
+	<time>2020-09-05T06:03:00.080Z</time>
+	<name>2020-09-05 08:03:00</name>
+	<desc><![CDATA[wanderreise jura]]></desc>
+</wpt>
+<wpt lat="46.539663" lon="6.235564">
+	<time>2020-09-06T06:01:44.407Z</time>
+	<name>2020-09-06 08:01:44</name>
+	<desc><![CDATA[wanderreise jura]]></desc>
+</wpt>
+<wpt lat="46.698247" lon="6.378525">
+	<ele>1091.00</ele>
+	<time>2020-09-06T14:52:27.596Z</time>
+	<name>2020-09-06 16:52:27</name>
+	<desc><![CDATA[wanderreise jura]]></desc>
+	<hdop>10.72</hdop>
+</wpt>
+<wpt lat="46.812982" lon="6.536712">
+	<ele>824.00</ele>
+	<time>2020-09-08T05:50:10.816Z</time>
+	<name>2020-09-08 07:50:11</name>
+	<desc><![CDATA[wanderreise jura]]></desc>
+	<hdop>12.86</hdop>
+</wpt>
+<wpt lat="46.895273" lon="6.685136">
+	<ele>1181.00</ele>
+	<time>2021-04-01T15:11:39.185Z</time>
+	<name>2021-04-01 17:11:39</name>
+	<desc><![CDATA[wanderreise jura]]></desc>
+	<hdop>9.65</hdop>
+</wpt>
+<wpt lat="47.025072" lon="6.819158">
+	<ele>1375.00</ele>
+	<time>2021-04-03T05:08:28.984Z</time>
+	<name>2021-04-03 07:08:29</name>
+	<desc><![CDATA[wanderreise jura]]></desc>
+	<hdop>6.43</hdop>
+</wpt>
+<wpt lat="52.096087" lon="4.283287">
+	<ele>13.00</ele>
+	<time>2021-07-16T19:39:43.928Z</time>
+	<name>2021-07-16 21:39:44</name>
+</wpt>
+</gpx>

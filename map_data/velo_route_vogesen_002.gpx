@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+	<metadata>
+		<desc>File with points/tracks from Locus Map Classic/3.61.0</desc>
+		<time>2022-06-22T09:59:34.373Z</time>
+	</metadata>
+<wpt lat="49.038650" lon="7.765027">
+	<time>2019-09-02T06:02:14.820Z</time>
+	<name>2019-09-02 08:02:15</name>
+	<desc><![CDATA[tag 1lockeres einfahren in die höhenmeter]]></desc>
+	<sym>friends-home</sym>
+</wpt>
+<wpt lat="48.880502" lon="7.389830">
+	<time>2019-09-02T17:03:56.016Z</time>
+	<name>2019-09-02 19:03:56</name>
+	<desc><![CDATA[tag 2 anstrengender schlafe in höhle]]></desc>
+	<sym>friends-home</sym>
+</wpt>
+<wpt lat="48.877732" lon="7.375629">
+	<ele>243.00</ele>
+	<time>2019-09-03T04:41:34.308Z</time>
+	<name>2019-09-03 06:41:34</name>
+	<desc><![CDATA[tag 2 habe mich verschoben in der höhle zu viele geräusche]]></desc>
+	<hdop>4.29</hdop>
+</wpt>
+<wpt lat="48.720416" lon="7.685512">
+	<time>2019-09-03T17:55:11.277Z</time>
+	<name>2019-09-03 19:55:11</name>
+	<desc><![CDATA[tag 3 abgewichen vom ursprünglichen plan fahre zu anstrengend]]></desc>
+</wpt>
+<wpt lat="48.054785" lon="7.387848">
+	<time>2019-09-05T05:40:27.333Z</time>
+	<name>2019-09-05 07:40:27</name>
+	<desc><![CDATA[tag 4 regen in der nacht schlafsack nass fahre jetzt nach hause]]></desc>
+</wpt>
+</gpx>

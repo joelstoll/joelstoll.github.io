@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+	<metadata>
+		<desc>File with points/tracks from Locus Map Classic/3.61.0</desc>
+		<time>2022-06-22T09:58:37.779Z</time>
+	</metadata>
+<wpt lat="56.043120" lon="-4.396305">
+	<time>2019-04-23T06:33:19.630Z</time>
+	<name>2019-04-23 07:33:19</name>
+</wpt>
+<wpt lat="56.191908" lon="-4.679643">
+	<ele>14.00</ele>
+	<time>2019-04-23T16:47:24.916Z</time>
+	<name>2019-04-23 17:47:25</name>
+	<hdop>5.36</hdop>
+</wpt>
+<wpt lat="56.324675" lon="-4.715358">
+	<ele>29.00</ele>
+	<time>2019-04-24T19:05:04.020Z</time>
+	<name>2019-04-24 20:05:04</name>
+	<hdop>9.65</hdop>
+</wpt>
+</gpx>

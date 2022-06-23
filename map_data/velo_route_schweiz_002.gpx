@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+	<metadata>
+		<desc>File with points/tracks from Locus Map Classic/3.61.0</desc>
+		<time>2022-06-22T09:59:21.031Z</time>
+	</metadata>
+<wpt lat="46.694072" lon="7.630411">
+	<time>2020-08-15T19:12:51.307Z</time>
+	<name>sommer 2020 tag 1</name>
+	<desc><![CDATA[hinfahrt auf leysin eine übernachtung]]></desc>
+</wpt>
+<wpt lat="46.351214" lon="7.022488">
+	<ele>1332.00</ele>
+	<time>2020-08-24T18:32:01.428Z</time>
+	<name>leysin</name>
+	<hdop>5.36</hdop>
+</wpt>
+<wpt lat="46.486372" lon="7.221822">
+	<ele>1004.00</ele>
+	<time>2020-08-26T16:37:57.578Z</time>
+	<name>sommer 2020 tag 12</name>
+	<desc><![CDATA[rückfahrt über Biketour 1]]></desc>
+	<hdop>7.50</hdop>
+</wpt>
+<wpt lat="46.351308" lon="7.022589">
+	<ele>1004.00</ele>
+	<time>2020-08-26T16:38:33.217Z</time>
+	<name>sommer 2020 tag 2-11</name>
+	<desc><![CDATA[leysin Ferienhaus grandmama]]></desc>
+</wpt>
+<wpt lat="46.617204" lon="7.683817">
+	<ele>697.00</ele>
+	<time>2020-08-27T19:04:26.052Z</time>
+	<name>sommer 2020 tag 13</name>
+	<desc><![CDATA[rückfahrt über Biketour 1]]></desc>
+	<hdop>6.43</hdop>
+</wpt>
+<wpt lat="46.926160" lon="8.288069">
+	<ele>583.00</ele>
+	<time>2020-08-29T05:07:16.998Z</time>
+	<name>sommer 2020 tag 14</name>
+	<desc><![CDATA[rückfahrt über Biketour 1]]></desc>
+	<hdop>9.65</hdop>
+</wpt>
+<wpt lat="47.162252" lon="8.206407">
+	<ele>734.00</ele>
+	<time>2020-08-29T09:00:01.515Z</time>
+	<name>2020-08-29 11:00:01</name>
+	<desc><![CDATA[rückfahrt über Biketour 1]]></desc>
+</wpt>
+</gpx>
