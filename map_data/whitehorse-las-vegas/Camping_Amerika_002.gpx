@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+	<metadata>
+		<desc>File with points/tracks from Locus Map Classic/3.61.0</desc>
+		<time>2022-06-22T09:58:17.860Z</time>
+	</metadata>
+<wpt lat="60.715758" lon="-135.055362">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.241Z</time>
+	<name>Nacht 1</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="60.362586" lon="-133.881725">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.242Z</time>
+	<name>Nacht 2</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="60.278050" lon="-132.967008">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.250Z</time>
+	<name>Nacht 3</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="60.008319" lon="-132.138340">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.256Z</time>
+	<name>Nacht 4</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="60.156719" lon="-129.717288">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.262Z</time>
+	<name>Nacht 5</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="59.305262" lon="-129.276386">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.269Z</time>
+	<name>Nacht 6</name>
+	<desc><![CDATA[5.juli]]></desc>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="57.540271" lon="-130.175296">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.276Z</time>
+	<name>Nacht 8</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="55.722681" lon="-128.813399">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.281Z</time>
+	<name>Nacht 10</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="55.199760" lon="-127.680780">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.285Z</time>
+	<name>Nacht 11</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="54.598163" lon="-126.858121">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.290Z</time>
+	<name>Nacht 12</name>
+	<desc><![CDATA[11.juli]]></desc>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="54.207616" lon="-125.709839">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.295Z</time>
+	<name>Nacht 13</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="53.958527" lon="-123.559457">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.299Z</time>
+	<name>Nacht 14</name>
+	<desc><![CDATA[13.Juli]]></desc>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="48.268958" lon="-114.143042">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.304Z</time>
+	<name>Nacht 28</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="47.303863" lon="-113.481746">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.309Z</time>
+	<name>Nacht 30</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="47.029234" lon="-112.812200">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.314Z</time>
+	<name>Nacht 31</name>
+	<desc><![CDATA[30.Juli]]></desc>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="46.449885" lon="-112.170244">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.317Z</time>
+	<name>Nacht 33</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="46.096386" lon="-112.554984">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.322Z</time>
+	<name>Nacht 34</name>
+	<desc><![CDATA[2.August]]></desc>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="45.837258" lon="-112.872838">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.327Z</time>
+	<name>Nacht 35</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="45.162923" lon="-113.002159">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.330Z</time>
+	<name>Nacht 36</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="44.663375" lon="-112.762842">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.334Z</time>
+	<name>Nacht 37</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="44.592937" lon="-111.727288">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.338Z</time>
+	<name>Nacht 38</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="44.119716" lon="-111.311406">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.343Z</time>
+	<name>Nacht 39</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="44.126939" lon="-110.790588">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.347Z</time>
+	<name>Nacht 40</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="43.638313" lon="-109.919423">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.352Z</time>
+	<name>Nacht 41</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="43.261663" lon="-110.018260">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.357Z</time>
+	<name>Nacht 42</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="42.607781" lon="-109.855288">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.363Z</time>
+	<name>Nacht 43</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="42.171664" lon="-110.187216">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.367Z</time>
+	<name>Nacht 44</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="41.025575" lon="-110.584030">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.372Z</time>
+	<name>Nacht 45</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="40.592779" lon="-111.006412">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.377Z</time>
+	<name>Nacht 46</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="40.105762" lon="-111.183658">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.381Z</time>
+	<name>Nacht 47</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="39.614417" lon="-111.303578">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.386Z</time>
+	<name>Nacht 48</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="39.129898" lon="-111.099260">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.390Z</time>
+	<name>Nacht 49</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="38.748624" lon="-112.083649">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.395Z</time>
+	<name>Nacht 50</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="38.606089" lon="-111.885406">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.399Z</time>
+	<name>Nacht 51</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="38.196403" lon="-111.999704">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.403Z</time>
+	<name>Nacht 52</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="37.721046" lon="-112.266529">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.408Z</time>
+	<name>Nacht 53</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="37.656168" lon="-112.740536">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.413Z</time>
+	<name>Nacht 54</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="37.388829" lon="-113.043865">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.417Z</time>
+	<name>Nacht 55</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="37.171393" lon="-113.249432">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.421Z</time>
+	<name>Nacht 56</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="36.889154" lon="-113.748258">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.426Z</time>
+	<name>Nacht 57</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="36.641119" lon="-114.015838">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.430Z</time>
+	<name>Nacht 58</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="36.516385" lon="-114.423889">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.433Z</time>
+	<name>Nacht 59-60</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="36.241890" lon="-114.516390">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.437Z</time>
+	<name>Nacht 61</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="36.118411" lon="-114.785733">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.442Z</time>
+	<name>Nacht 62-65</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="36.164624" lon="-115.130773">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.447Z</time>
+	<name>Nacht 66-72</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="52.844190" lon="-118.074379">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.451Z</time>
+	<name>Nacht 20</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="51.189084" lon="-115.536102">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.456Z</time>
+	<name>Nacht 25</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+<wpt lat="50.690223" lon="-115.127442">
+	<ele>0.00</ele>
+	<time>2021-10-19T07:54:33.462Z</time>
+	<name>Nacht 27</name>
+	<sym>//www.gstatic.com/mapspro/images/stock/503-wht-blank_maps</sym>
+	<extensions>
+		<locus:icon>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</locus:icon>
+	</extensions>
+</wpt>
+</gpx>

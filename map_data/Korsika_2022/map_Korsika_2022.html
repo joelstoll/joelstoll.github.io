@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Joel's Blog</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="img/png" href="..\img\bitmap.png"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&family=Roboto:wght@100&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&family=Roboto:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin="" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+  <style media="screen">
+
+  </style>
+  </head>
+
+<div id="map" style="width: auto; height: 100vh;"></div>
+
+
+
+
+
+</html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+
+<script src="Schlaforte.js"></script>
+<script src="Wanderung Teil 1.js"></script>
+<script src="Wanderung Teil 2.js"></script>
+<script src="Wanderung Teil 3.js"></script>
+
+
+<script>
+	var map = L.map('map').setView([42.14890371001345, 9.108906261989814], 9);
+
+  var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 16,
+    minZoom: 5,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+	}).addTo(map);
+
+
+
+  var myStyle = {
+    "color": "#E41A1C",
+  };
+
+  L.geoJSON(Wanderung_Teil_1, {
+      style: myStyle
+  }).addTo(map);
+
+  var myStyle = {
+    "color": "#0288D1",
+  };
+
+  L.geoJSON(Wanderung_Teil_2, {
+      style: myStyle
+  }).addTo(map);
+
+  var myStyle = {
+    "color": "#2E7D32",
+  };
+
+  L.geoJSON(Wanderung_Teil_3, {
+      style: myStyle
+  }).addTo(map);
+
+  var geojsonMarkerOptions = {
+    radius: 6,
+    fillColor: "#ff7800",
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8
+  };
+
+  var myLayer = L.geoJson(SchlaforteJson, {
+      onEachFeature: yourOnEachFeatureFunction,
+      pointToLayer: icon
+  }).addTo(map);
+
+  function yourOnEachFeatureFunction(feature, layer){
+      if (feature.properties.name) {
+          layer.bindPopup(feature.properties.name);
+      }
+  }
+
+  function icon(feature, latlng) {
+      return L.circleMarker(latlng, geojsonMarkerOptions);
+  }
+
+
+
+</script>

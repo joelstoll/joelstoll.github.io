@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+	<metadata>
+		<desc>File with points/tracks from Locus Map Classic/3.61.0</desc>
+		<time>2022-06-28T10:39:46.236Z</time>
+	</metadata>
+<wpt lat="42.543109" lon="9.469504">
+	<ele>-1.00</ele>
+	<time>2022-04-21T17:49:46.081Z</time>
+	<name>2022-04-22 19:49:46</name>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.673445" lon="9.292187">
+	<ele>-1.00</ele>
+	<time>2022-04-21T17:50:02.121Z</time>
+	<name>2022-04-21 19:50:02</name>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.720480" lon="9.203547">
+	<ele>10.00</ele>
+	<time>2022-04-19T14:55:56.856Z</time>
+	<name>2022-04-19 16:55:57</name>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.648652" lon="9.028410">
+	<ele>192.00</ele>
+	<time>2022-04-18T16:27:11.612Z</time>
+	<name>2022-04-18 18:27:11</name>
+	<hdop>17.15</hdop>
+</wpt>
+<wpt lat="42.486251" lon="8.847753">
+	<ele>398.00</ele>
+	<time>2022-04-17T11:10:02.200Z</time>
+	<name>2022-04-17 13:10:02</name>
+	<hdop>5.36</hdop>
+</wpt>
+<wpt lat="46.299311" lon="7.918094">
+	<ele>657.00</ele>
+	<time>2022-04-16T15:27:03.403Z</time>
+	<name>2022-04-16 17:27:05</name>
+	<desc><![CDATA[handballwochenende 2liga]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.428998" lon="8.813766">
+	<ele>1168.00</ele>
+	<time>2022-04-15T15:40:20.541Z</time>
+	<name>2022-04-15 17:40:20</name>
+	<desc><![CDATA[mare e monti]]></desc>
+	<hdop>3.22</hdop>
+</wpt>
+<wpt lat="42.405971" lon="8.676726">
+	<ele>92.00</ele>
+	<time>2022-04-14T15:38:31.845Z</time>
+	<name>2022-04-14 17:38:32</name>
+	<desc><![CDATA[mare e monti]]></desc>
+	<hdop>4.29</hdop>
+</wpt>
+<wpt lat="42.339806" lon="8.629994">
+	<ele>-4.00</ele>
+	<time>2022-04-13T17:38:39.076Z</time>
+	<name>2022-04-13 19:38:39</name>
+	<desc><![CDATA[mare e monti]]></desc>
+	<hdop>4.29</hdop>
+</wpt>
+<wpt lat="42.275129" lon="8.742209">
+	<ele>944.00</ele>
+	<time>2022-04-12T18:20:50.934Z</time>
+	<name>2022-04-12 20:20:51</name>
+	<desc><![CDATA[Start der mare monti]]></desc>
+	<hdop>20.37</hdop>
+</wpt>
+<wpt lat="41.924560" lon="8.738861">
+	<ele>30.00</ele>
+	<time>2022-04-11T18:01:17.520Z</time>
+	<name>2022-04-11 20:01:17</name>
+	<hdop>79.33</hdop>
+</wpt>
+<wpt lat="41.590346" lon="9.276124">
+	<ele>39.00</ele>
+	<time>2022-04-09T15:07:46.118Z</time>
+	<name>2022-04-09 17:07:46</name>
+	<desc><![CDATA[nach abbruch von der Gr20]]></desc>
+	<hdop>5.36</hdop>
+</wpt>
+<wpt lat="41.674452" lon="9.162627">
+	<ele>672.00</ele>
+	<time>2022-04-08T17:03:36.259Z</time>
+	<name>2022-04-08 19:03:36</name>
+	<desc><![CDATA[nach abbruch von der Gr20]]></desc>
+	<hdop>5.36</hdop>
+</wpt>
+<wpt lat="41.791280" lon="9.182908">
+	<ele>963.00</ele>
+	<time>2022-04-07T11:30:12.570Z</time>
+	<name>2022-04-07 13:30:12</name>
+	<desc><![CDATA[nach abbruch von der Gr20]]></desc>
+	<hdop>4.29</hdop>
+</wpt>
+<wpt lat="41.841509" lon="9.214160">
+	<time>2022-04-07T05:12:24.873Z</time>
+	<name>2022-04-06 07:12:25</name>
+	<desc><![CDATA[versuch Gr20 april]]></desc>
+</wpt>
+<wpt lat="41.794546" lon="9.259632">
+	<time>2022-04-05T17:18:32.221Z</time>
+	<name>2022-04-05 19:18:32</name>
+	<desc><![CDATA[versuch Gr20 april]]></desc>
+</wpt>
+<wpt lat="42.550365" lon="9.446415">
+	<ele>1069.00</ele>
+	<time>2022-04-05T17:18:52.172Z</time>
+	<name>2022-04-04 19:18:52</name>
+	<desc><![CDATA[hotel nach ankunft auf dem flughafen bastia]]></desc>
+	<hdop>7.50</hdop>
+</wpt>
+</gpx>

@@ -33,7 +33,7 @@
 <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
 
 <script src="tracks.js"></script>
-
+<script src="map_Ostrseeumrundung.js"></script>
 
 
 <script>
@@ -52,16 +52,14 @@
     minZoom: 2,
   }).addTo(map);
 
-	function onMapClick(e) {
-		popup
-			.setLatLng(e.latlng)
-			.setContent('You clicked the map at ' + e.latlng.toString())
-			.openOn(map);
-	}
+  var myStyle = {
+    "color": "#E41A1C",
+    "dashArray": '5,5',
+  };
 
-
-	map.on('click', onMapClick);
-
+  L.geoJSON(map_OstrseeumrundungJson, {
+      style: myStyle
+  }).addTo(map);
 
 
 
