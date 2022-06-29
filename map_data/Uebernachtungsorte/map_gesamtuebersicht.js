@@ -4,6 +4,1489 @@ var map_gesamtuebersichtJson = {
         {
             "type": "Feature",
             "properties": {
+                "name": "2022-04-22 19:49:46",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.469504,
+                    42.543109,
+                    14.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-21 19:50:02",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.292187,
+                    42.673445,
+                    9.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-19 16:55:57",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.203547,
+                    42.72048,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-18 18:27:11",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.02841,
+                    42.648652,
+                    192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-17 13:10:02",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.847753,
+                    42.486251,
+                    398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-16 17:27:05",
+                "desc": "handballwochenende 2liga",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.918094,
+                    46.299311,
+                    657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-15 17:40:20",
+                "desc": "mare e monti",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.813766,
+                    42.428998,
+                    1168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-14 17:38:32",
+                "desc": "mare e monti",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.676726,
+                    42.405971,
+                    92
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-13 19:38:39",
+                "desc": "mare e monti",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.629994,
+                    42.339806,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-12 20:20:51",
+                "desc": "Start der mare monti",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.742209,
+                    42.275129,
+                    944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-11 20:01:17",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.738861,
+                    41.92456,
+                    30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-09 17:07:46",
+                "desc": "nach abbruch von der Gr20",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.276124,
+                    41.590346,
+                    39
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-08 19:03:36",
+                "desc": "nach abbruch von der Gr20",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.162627,
+                    41.674452,
+                    672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-07 13:30:12",
+                "desc": "nach abbruch von der Gr20",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.182908,
+                    41.79128,
+                    963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-06 07:12:25",
+                "desc": "versuch Gr20 april",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.21416,
+                    41.841509,
+                    1537.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-05 19:18:32",
+                "desc": "versuch Gr20 april",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.259632,
+                    41.794546,
+                    1054.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2022-04-04 19:18:52",
+                "desc": "hotel nach ankunft auf dem flughafen bastia",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.446415,
+                    42.550365,
+                    1069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refuge d'i Paliri",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.259559,
+                    41.794138,
+                    1047.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refuge d'Asinau",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.214321,
+                    41.841384,
+                    1533.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hôtel Le Mistral",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.276153,
+                    41.59046,
+                    61
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Busbahnhof",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.302272,
+                    42.678904,
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wegweiser",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.741971,
+                    42.257749,
+                    355.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spar",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.795561,
+                    42.550782,
+                    10.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 1",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.429082,
+                    50.073674,
+                    243.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 2",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.381992,
+                    50.456254,
+                    160.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 3",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.210669,
+                    50.772737,
+                    127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 4",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.724929,
+                    51.048919,
+                    117.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 5",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.224209,
+                    51.361602,
+                    118.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 6",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.830535,
+                    51.768917,
+                    75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 7",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.179724,
+                    51.857212,
+                    55
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 8",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.629273,
+                    52.124864,
+                    57.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 9",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.971689,
+                    52.537899,
+                    36
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 10",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.731928,
+                    53.004632,
+                    23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 11",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.001361,
+                    53.192707,
+                    11
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 12",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.439759,
+                    53.396707,
+                    9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 13",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.764613,
+                    53.564,
+                    3.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 14",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.895114,
+                    53.821157,
+                    2.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2016 tag 15",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.650055,
+                    53.885761,
+                    4.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 1",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.266765,
+                    69.611584,
+                    2.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 2",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.962723,
+                    69.269201,
+                    19.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 3",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.464217,
+                    68.761996,
+                    6.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 4",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.564135,
+                    68.423931,
+                    4.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 5",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.111173,
+                    68.232672,
+                    14.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 7",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.612805,
+                    67.215241,
+                    79.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 8",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.534785,
+                    66.78521,
+                    50.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 9",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.310851,
+                    66.31946,
+                    33.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 10",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.458983,
+                    65.953639,
+                    12.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 11",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.117762,
+                    65.168446,
+                    18.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 12",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.577719,
+                    64.759051,
+                    8.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 13",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.200327,
+                    64.295782,
+                    7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 14",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.544253,
+                    64.113844,
+                    269.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 15",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.694324,
+                    63.628797,
+                    88.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 16",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.495012,
+                    63.175277,
+                    364.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 17",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.721192,
+                    62.978257,
+                    4.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 18",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.493448,
+                    62.510372,
+                    869.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 19",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.967387,
+                    62.038923,
+                    1135.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 20",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.997376,
+                    61.177799,
+                    665.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 21",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.061364,
+                    60.636988,
+                    183.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 22",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.343262,
+                    59.916221,
+                    190.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 23",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.964521,
+                    59.399607,
+                    67.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 24",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.920466,
+                    57.532191,
+                    25.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 25",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.278822,
+                    57.115343,
+                    23.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 26",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.125015,
+                    56.47599,
+                    7.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 27",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.269603,
+                    55.764661,
+                    10.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 28",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.686911,
+                    54.963652,
+                    1.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 29",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.90479,
+                    54.3122,
+                    0.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 30",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.650594,
+                    53.884805,
+                    -0.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 32",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.231563,
+                    53.383839,
+                    -1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 33",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.028168,
+                    53.301622,
+                    -1.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 34",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.871312,
+                    53.306078,
+                    -0.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 35",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.788454,
+                    52.827657,
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 36",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.28328,
+                    52.096163,
+                    9.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 37",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.392891,
+                    51.836815,
+                    7.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 38",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.587304,
+                    51.652123,
+                    18.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 39",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.017176,
+                    50.820329,
+                    46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 40",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.040788,
+                    49.996671,
+                    83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 41",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.429198,
+                    49.29394,
+                    95
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2018 tag 42",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.795478,
+                    48.498977,
+                    142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2020-09-05 08:03:00",
+                "desc": "wanderreise jura",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.127687,
+                    46.415837,
+                    1154.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2020-09-06 08:01:44",
+                "desc": "wanderreise jura",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.235564,
+                    46.539663,
+                    1416.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2020-09-06 16:52:27",
+                "desc": "wanderreise jura",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.378525,
+                    46.698247,
+                    1091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2020-09-08 07:50:11",
+                "desc": "wanderreise jura",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.536712,
+                    46.812982,
+                    824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2021-04-01 17:11:39",
+                "desc": "wanderreise jura",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.685136,
+                    46.895273,
+                    1181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2021-04-03 07:08:29",
+                "desc": "wanderreise jura",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.819158,
+                    47.025072,
+                    1375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2021-07-16 21:39:44",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.283287,
+                    52.096087,
+                    13
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sommer 2020 tag 1",
+                "desc": "hinfahrt auf leysin eine übernachtung",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.630411,
+                    46.694072,
+                    601.6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "leysin",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.022488,
+                    46.351214,
+                    1332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sommer 2020 tag 12",
+                "desc": "rückfahrt über Biketour 1",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.221822,
+                    46.486372,
+                    1004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sommer 2020 tag 2-11",
+                "desc": "leysin Ferienhaus grandmama",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.022589,
+                    46.351308,
+                    1004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sommer 2020 tag 13",
+                "desc": "rückfahrt über Biketour 1",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.683817,
+                    46.617204,
+                    697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sommer 2020 tag 14",
+                "desc": "rückfahrt über Biketour 1",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.288069,
+                    46.92616,
+                    583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2020-08-29 11:00:01",
+                "desc": "rückfahrt über Biketour 1",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.206407,
+                    47.162252,
+                    734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2019-09-02 08:02:15",
+                "desc": "tag 1lockeres einfahren in die höhenmeter",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.765027,
+                    49.03865,
+                    208.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2019-09-02 19:03:56",
+                "desc": "tag 2 anstrengender schlafe in höhle",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.38983,
+                    48.880502,
+                    236.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2019-09-03 06:41:34",
+                "desc": "tag 2 habe mich verschoben in der höhle zu viele geräusche",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.375629,
+                    48.877732,
+                    243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2019-09-03 19:55:11",
+                "desc": "tag 3 abgewichen vom ursprünglichen plan fahre zu anstrengend",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.685512,
+                    48.720416,
+                    146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2019-09-05 07:40:27",
+                "desc": "tag 4 regen in der nacht schlafsack nass fahre jetzt nach hause",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.387848,
+                    48.054785,
+                    199.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Nacht 1",
                 "sym": " "
             },
@@ -729,347 +2212,45 @@ var map_gesamtuebersichtJson = {
         {
             "type": "Feature",
             "properties": {
-                "name": "2019-04-23 07:33:19",
+                "name": "Nacht 28",
                 "sym": " "
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -4.396305,
-                    56.04312,
-                    27.1
+                    -114.985429,
+                    50.187468,
+                    1401.4
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "2019-04-23 17:47:25",
+                "name": "Nacht 29",
                 "sym": " "
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -4.679643,
-                    56.191908,
-                    14
+                    -114.673614,
+                    48.909135,
+                    1516.6
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "2019-04-24 20:05:04",
+                "name": "Nacht 19",
                 "sym": " "
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -4.715358,
-                    56.324675,
-                    29
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "sommer 2020 tag 1",
-                "desc": "hinfahrt auf leysin eine übernachtung",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.630411,
-                    46.694072,
-                    601.6
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "leysin",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.022488,
-                    46.351214,
-                    1332
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "sommer 2020 tag 12",
-                "desc": "rückfahrt über Biketour 1",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.221822,
-                    46.486372,
-                    1004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "sommer 2020 tag 2-11",
-                "desc": "leysin Ferienhaus grandmama",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.022589,
-                    46.351308,
-                    1004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "sommer 2020 tag 13",
-                "desc": "rückfahrt über Biketour 1",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.683817,
-                    46.617204,
-                    697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "sommer 2020 tag 14",
-                "desc": "rückfahrt über Biketour 1",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.288069,
-                    46.92616,
-                    583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2020-08-29 11:00:01",
-                "desc": "rückfahrt über Biketour 1",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.206407,
-                    47.162252,
-                    734
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2019-09-02 08:02:15",
-                "desc": "tag 1lockeres einfahren in die höhenmeter",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.765027,
-                    49.03865,
-                    208.7
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2019-09-02 19:03:56",
-                "desc": "tag 2 anstrengender schlafe in höhle",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.38983,
-                    48.880502,
-                    236.4
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2019-09-03 06:41:34",
-                "desc": "tag 2 habe mich verschoben in der höhle zu viele geräusche",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.375629,
-                    48.877732,
-                    243
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2019-09-03 19:55:11",
-                "desc": "tag 3 abgewichen vom ursprünglichen plan fahre zu anstrengend",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.685512,
-                    48.720416,
-                    146
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2019-09-05 07:40:27",
-                "desc": "tag 4 regen in der nacht schlafsack nass fahre jetzt nach hause",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.387848,
-                    48.054785,
-                    199.3
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2020-09-05 08:03:00",
-                "desc": "wanderreise jura",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.127687,
-                    46.415837,
-                    1154.3
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2020-09-06 08:01:44",
-                "desc": "wanderreise jura",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.235564,
-                    46.539663,
-                    1416.1
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2020-09-06 16:52:27",
-                "desc": "wanderreise jura",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.378525,
-                    46.698247,
-                    1091
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2020-09-08 07:50:11",
-                "desc": "wanderreise jura",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.536712,
-                    46.812982,
-                    824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2021-04-01 17:11:39",
-                "desc": "wanderreise jura",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.685136,
-                    46.895273,
-                    1181
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2021-04-03 07:08:29",
-                "desc": "wanderreise jura",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.819158,
-                    47.025072,
-                    1375
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "2021-07-16 21:39:44",
-                "sym": " "
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.283287,
-                    52.096087,
-                    13
+                    -119.247065,
+                    53.033613,
+                    829.9
                 ]
             }
         },
@@ -2185,6 +3366,111 @@ var map_gesamtuebersichtJson = {
                     8.120031,
                     47.94015,
                     1188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mit fabian tag 1-3",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.463391,
+                    43.514953,
+                    98.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mit fabian 7-8",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.351083,
+                    43.105154,
+                    58
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mit fabian 4-6",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.080007,
+                    42.646963,
+                    90.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2019-04-23 07:33:19",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.396305,
+                    56.04312,
+                    27.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2019-04-23 17:47:25",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.679643,
+                    56.191908,
+                    14
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2019-04-24 20:05:04",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.715358,
+                    56.324675,
+                    29
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fabian unterkunft",
+                "sym": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.19637,
+                    55.966369,
+                    12.9
                 ]
             }
         }
